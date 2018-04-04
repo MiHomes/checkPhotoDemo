@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">checkPhotoDemo</string>
+
+    <string name="viewpager_indicator">指示器</string>
+</resources>
